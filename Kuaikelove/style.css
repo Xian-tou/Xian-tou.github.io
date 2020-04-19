@@ -2,6 +2,24 @@ html,body{
 font-family: Georgia, serif;
 color: #191970;
 }
+
+.p1{
+  font-family: sans-serif;
+  color:  #8B008B;
+}
+
+.display-4{
+  font-family: sans-serif;
+  color:#191970;
+}
+.h3{
+  font-family: sans-serif;
+  color:#8B008B;
+}
+.lead{
+  font-family: sans-serif;
+  color:#8B008B;
+
 .display-1{
   font-family: serif;
 }
@@ -14,40 +32,24 @@ color: #191970;
   width:100%;
   height:100%;
 }
-.button-info{
-  background-color:#9932CC;
-  border:1px solid #9932CC;
-}
-.button-info:hover{
-  background-color: #8B008B;
-  border:1px solid #8B008B;
-}
 .fun{
   width: 100%;
-  margin: 2rem;
+  margin-bottom: 2rem;
+
 }
 .gif{
   max-width: 100%;
+  height: 200em;
 }
 .social a{
   font-size: 4.5rem;
   padding: 3rem;
   }
-.fa-facebook{
-  color: #00008B;
+  .btn-outline-secondary{
+    color: #191970;
+    border-color: #191970;
   }
-  .fa-twitter{
-    color: #00BFFF;
-    }
-    .fa-google{
-      color: #FF0000;
-      }
-      .fa-instagram{
-        color: #6A5ACD;
-        }
-        .fa-youtube{
-          color: #8B0000;
-          }
+
 .fa-facebook:hover,.fa-twitter:hover,.fa-instagram:hover,.fa-google:hover,.fa-youtube:hover{
   color:#FFE4C4;
 }
