@@ -1,0 +1,52 @@
+.jumbotron{
+  opacity: 0.85;
+    background-color:#FDF5E6;
+margin:80px 200px 0px 200px;
+}
+.page-item a{
+      font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  color:	#000000;
+  font-size: 1rem;
+}
+.page-link{
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+background-color: #FDF5E6;
+}
+.page-link:hover{
+  background-color: 	#E9967A;
+
+}
+.title{
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  font-size: 1.5rem;
+  color: #800080;
+}
+.text{
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  font-size: 1.4rem;
+
+}
+.display-4{
+  font-family: sans-serif;
+}
+.table{
+  margin-right: 80px;
+  opacity: 1.0;
+  background-color: #FDF5E6;
+}
+
+.fa-flag{
+  color:#DC143C;
+  font-size: 2rem;
+}
+.fa-flag-checkered{
+  color:#E9967A;
+  font-size: 2rem;
+}
+.fa-flag-o{
+  color:#FFFF00;
+  font-size: 2rem;
+}
+.fa-fire{
+  color:#F08080;
+}
