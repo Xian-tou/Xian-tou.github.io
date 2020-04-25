@@ -1,0 +1,14 @@
+.breadcrumb{
+  background-color: #FDF5E6;
+width:200px;
+height:60px;
+}
+.nav-item{
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  font-size: 1.6rem;
+}
+.breadcrumb-item{
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+color:	 #800080;
+font-size: 1.8rem;
+}

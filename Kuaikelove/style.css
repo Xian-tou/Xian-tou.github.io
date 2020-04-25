@@ -2,9 +2,12 @@ html,body{
 font-family: sans-serif;
 color: #191970;
 }
-.nav-link{
+.carousel-item{
+  margin:0px 50px 0px 0px;
+}
+.nav-item{
   font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
-  font-size: 1.2rem;
+  font-size: 1.6rem;
 }
 .display-4{
   font-family: sans-serif;

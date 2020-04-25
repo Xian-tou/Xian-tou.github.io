@@ -3,6 +3,10 @@
     background-color:#FDF5E6;
 margin:80px 200px 0px 200px;
 }
+.nav-item{
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  font-size: 1.6rem;
+}
 .page-item a{
       font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
   color:	#000000;
